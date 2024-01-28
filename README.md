@@ -5,5 +5,6 @@
 - #️⃣ El lenguaje de programación que domino es Java.
 - 💻 Estoy apendiendo a desarrollar aplicaciones web.
 - :soccer:🔴🔵 Me gusta el futbol.
+- 🎮 Me gustan los videojuegos.
 
 LuisMcm16 - 🇲🇽
